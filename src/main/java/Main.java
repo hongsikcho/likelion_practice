@@ -6,8 +6,6 @@ class Main {
 
         자동차.width = 100;
 
-        System.out.println
-        );
         c1.setMax(230);
         c2.setMax(210);
 
