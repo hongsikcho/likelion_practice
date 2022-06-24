@@ -3,7 +3,7 @@ class Main {
     public static void main(String[] args) {
         자동차 c1 = new 자동차();
         자동차 c2 = new 자동차();
-
+        자동차 c3 = new 자동차();
         자동차.width = 100;
 
         c1.setMax(230);
